@@ -12,7 +12,5 @@ To test Above code :</br>
 
 2) Click on test now to run web application: <a href="https://nitesh-ai.github.io/Microbit/" rel="nofollow">Test Now</a>
 
-Incase want to test multiple services click on Test All : <a href="https://nitesh-ai.github.io/Microbit/Basic_testing/
-
-" rel="nofollow">Test Now</a>
+<b>In case want to test multiple services click on Test All :</b> <a href="https://nitesh-ai.github.io/Microbit/Basic_testing/" rel="nofollow">Test Now</a>
 
