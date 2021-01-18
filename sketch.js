@@ -9,14 +9,6 @@ let iconLeft = [
   ['0', '1', '1', '1', '0']
 ]
 
-let iconRight = [
-  ['0', '0', '0', '0', '0'],
-  ['0', '1', '0', '1', '0'],
-  ['0', '0', '0', '0', '0'],
-  ['0', '1', '1', '1', '0'],
-  ['1', '0', '0', '0', '1']
-]
-
 function preload() {
 
 }
@@ -58,6 +50,7 @@ function draw() {
     push();
     rotateX(microBit.getAccelerometer().x/10);
     rotateY(microBit.getAccelerometer().y/10);
+    rotatez(microBit.getAccelerometer().z/10);
     box(150);
     pop();
 
