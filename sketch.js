@@ -50,7 +50,7 @@ function draw() {
     push();
     rotateX(microBit.getAccelerometer().x/10);
     rotateY(microBit.getAccelerometer().y/10);
-    rotatez(microBit.getAccelerometer().z/10);
+   
     box(150);
     pop();
 
