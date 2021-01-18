@@ -5,7 +5,7 @@
 
 Below Microbit is tested to work on both microbit V1.5 and V2.0
 
-To test Above p5.js based code :</br>
+To test Above <b>p5.js</b> based code :</br>
 
 
 1) Download microbit firmware: <a href="https://github.com/Nitesh-AI/Microbit/blob/main/microbit-test.hex" rel="nofollow">Download</a></br>
