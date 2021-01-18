@@ -3,7 +3,7 @@
 
 <b>This Github Repository contains Experimental Code for Microbit</b>
 
-Above code is tested to work on both microbit V1.5 and V2.0
+Below Microbit is tested to work on both microbit V1.5 and V2.0
 
 To test Above code :</br>
 
