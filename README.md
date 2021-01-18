@@ -3,7 +3,7 @@
 
 <b>This Github Repository contains Experimental Code for Microbit</b>
 
-Below Microbit firmware is tested to work on both microbit V1.5 and V2.0
+Below Microbit firmware is tested to work on both Microbit V1.5 and V2.0
 
 To test Above <b>p5.js</b> based code :</br>
 
