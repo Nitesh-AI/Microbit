@@ -9,6 +9,14 @@ let iconLeft = [
   ['0', '1', '1', '1', '0']
 ]
 
+let iconRight = [
+  ['0', '0', '0', '0', '0'],
+  ['0', '1', '0', '1', '0'],
+  ['0', '0', '0', '0', '0'],
+  ['0', '1', '1', '1', '0'],
+  ['1', '0', '0', '0', '1']
+]
+
 function preload() {
 
 }
@@ -29,7 +37,7 @@ function setup() {
 
   microBit.setButtonBCallback(function(){
     console.log("buttonB pressed");
-    microBit.writeMatrixText("CIAO!");
+    microBit.writeMatrixText("Github!");
   });
 
   microBit.onConnect(function(){
@@ -50,7 +58,6 @@ function draw() {
     push();
     rotateX(microBit.getAccelerometer().x/10);
     rotateY(microBit.getAccelerometer().y/10);
-   
     box(150);
     pop();
 
